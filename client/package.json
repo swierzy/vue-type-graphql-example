@@ -20,7 +20,7 @@
     "axios": "^0.18.0",
     "bootstrap-vue": "^2.0.0-rc.0",
     "classnames": "^2.2.5",
-    "graphql": "^14.2.0",
+    "graphql": "^14.2.1",
     "graphql-tag": "^2.6.1",
     "jest": "^24.5.0",
     "lodash": "^4.17.4",
